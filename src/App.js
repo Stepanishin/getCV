@@ -63,9 +63,14 @@ function App() {
                 <Avatar />
               </Sidebar>
               <Content>
-                <Title  size='3'>Marina Zalowsski</Title>
+                <Title  size='3'>Evgenii Stepanishin</Title>
                 <Description>
-                  Description
+                  Determined and productive web developer with a passion for creative solutions. 
+                  Proficient in JavaScript and React. Dedicated to learning additional technologies and 
+                  coding languages (currently enrolled in a Web3 course and TypeScript course).  
+                  
+                  Created a commercial project Tryharders related to blockchain technologies. On this 
+                  site, users can play games written by me and receive NFT rewards
                 </Description>
               </Content>
             </Row>
@@ -80,10 +85,10 @@ function App() {
 
                 <Description isPrimary style={{ marginTop: '2rem' }}>
                   <MailIcon style={{ marginRight: '0.6rem' }} />
-                  stepanishin@gmail.com
+                  evgenii.stepanishin@gmail.com
                 </Description>
                 <Description isPrimary>
-                  <PhoneIcon style={{ marginRight: '0.6rem' }} />
+                  <PhoneIcon style={{ marginRight: '0.6rem' }} /> <br></br>
                   +386 69630614
                 </Description>
               </Sidebar>
@@ -92,7 +97,8 @@ function App() {
                 <Title size='3' isUppercase>
                   Education:
                 </Title>
-                <Description>Stanford University</Description>
+                <Description>May 2021 - February 2022: 
+SkillFactory, Frontend developer</Description>
 
                 <Title
                   size='3'
